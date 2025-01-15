@@ -2,6 +2,8 @@
 
 モバイル通信のベストプラクティスガイダンス
 
+## References
+
 https://www.cisa.gov/sites/default/files/2024-12/guidance-mobile-communications-best-practices.pdf
 
 ## Introduction
