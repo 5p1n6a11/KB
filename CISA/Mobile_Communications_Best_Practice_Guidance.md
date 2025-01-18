@@ -200,7 +200,7 @@ Commit to security updates for at least the next five years.
 
 (7) Review and restrict app permissions through Settings -> Apps -> Permissions Manager. Revoke permissions that are unnecessary or excessive for the app’s functionality. Unless absolutely required, avoid granting apps access to sensitive permissions such as location, camera, or microphone.
 
-(7) 設定] -> [アプリ] -> [権限マネージャー] からアプリの権限を確認し、制限します。アプリの機能にとって不必要または過剰な権限は取り消します。 絶対に必要でない限り、位置情報、カメラ、マイクなどの機密性の高い権限へのアクセスをアプリに許可することは避けてください。
+(7) [設定] -> [アプリ] -> [権限マネージャー] からアプリの権限を確認し、制限します。アプリの機能にとって不必要または過剰な権限は取り消します。 絶対に必要でない限り、位置情報、カメラ、マイクなどの機密性の高い権限へのアクセスをアプリに許可することは避けてください。
 
 ## Incident Reporting Information
 
