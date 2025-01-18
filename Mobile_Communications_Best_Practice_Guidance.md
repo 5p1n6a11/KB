@@ -152,7 +152,7 @@ Note: These benefits are limited to the Safari browser.
 
 (5) Review and restrict app permissions through Settings -> Privacy & Security. Review which apps access sensitive data, such as location, camera, and microphone. Revoke and avoid granting permissions that are unnecessary or excessive for functionality of the app.
 
-設定] -> [プライバシーとセキュリティ] からアプリの権限を再確認し、制限します。位置情報、カメラ、マイクなど、機密データにアクセスするアプリを確認します。アプリの機能にとって不必要または過剰な権限は取り消し、付与しないようにします。
+(5) [設定] -> [プライバシーとセキュリティ] からアプリの権限を再確認し、制限します。位置情報、カメラ、マイクなど、機密データにアクセスするアプリを確認します。アプリの機能にとって不必要または過剰な権限は取り消し、付与しないようにします。
 
 ### Android-Specific Recommendations
 
